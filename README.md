@@ -1,5 +1,5 @@
 # SpaceGuy
-![Game Logo](screenshots/game_logo.png)
+
 
 ## Introduction
 This game is developed using SpriteKit, a powerful 2D game framework for iOS. The codebase is organized and well-documented, making it easy for developers to contribute or modify the game. 
@@ -16,7 +16,7 @@ This game offers a thrilling space adventure with stunning graphics and engaging
 ## Screenshots
 
 ### Gameplay
-![Gameplay](screenshots/gameplay.png)
+(/spaceguy.png)
 
 
 
