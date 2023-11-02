@@ -34,7 +34,7 @@ Contributions to SpaceGuy are welcome as I am actively working on this project.
 If you have any questions, suggestions, or feedback, please feel free to contact us:
 
 - Email: andrew.acheampong@orlikdesignlab.com
-- Website: [Your Game's Website](https://www.orlikdesignlab.com)
-- Twitter: [@YourTwitterHandle](https://twitter.com/Andyrosty)
+- Website: (https://www.orlikdesignlab.com)
+- Twitter: (https://twitter.com/Andyrosty)
 
 Enjoy your astronaut adventure on the moon!
