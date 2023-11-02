@@ -16,7 +16,8 @@ This game offers a thrilling space adventure with stunning graphics and engaging
 ## Screenshots
 
 ### Gameplay
-(/spaceguy.png)
+![spaceguy](https://github.com/andyrosty/SpaceGuy/assets/16139474/a2031fd1-b76a-450e-9515-c2b06a0040f5)
+
 
 
 
