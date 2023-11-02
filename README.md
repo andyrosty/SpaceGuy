@@ -32,7 +32,7 @@ This game offers a thrilling space adventure with stunning graphics and engaging
 Contributions to SpaceGuy are welcome as I am actively working on this project.
 
 ## Contact
-If you have any questions, suggestions, or feedback, please feel free to contact us:
+If you have any questions, suggestions, or feedback, please feel free to contact me:
 
 - Email: andrew.acheampong@orlikdesignlab.com
 - Website: (https://www.orlikdesignlab.com)
